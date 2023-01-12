@@ -2,7 +2,7 @@
 
 ## Web Developer From Munich, Bavaria, Germany
 
-- 👨‍💻 All of my projects are available at [Personal Page][personalPage]
+- 👨‍💻 All of my projects are available at my [Personal Page][personalPage]
 
 - 📫 How to reach me **[ddidbaridze@gmail.com](mailto:ddidbaridze@gmail.com)**
 
@@ -20,7 +20,7 @@
 
 ### Github Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didbar&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Didbar&layout=compact)
 
 ### Connect with me
 
@@ -28,5 +28,5 @@
 
 [linkedInImage]: https://skillicons.dev/icons?i=linkedin
 [linkedInProfile]: https://www.linkedin.com/in/daviti-didbaridze-bb5a58b5/ "Personal Profile"
-[linkToResume]: https://drive.google.com/file/d/1R8KnsA9hukWFuH9mm6aRXYnQ_CZAm4vg/view?usp=share_link "To My Resume"
+[linkToResume]: https://drive.google.com/file/d/1ZuZEzaYnd6kIFyUrArFuU01VpuDnzq_w/view?usp=share_link "To My Resume"
 [personalPage]: https://davit-didbaridze.netlify.app/ "To My Personal Page"
