@@ -27,6 +27,6 @@
 [![My LinkedIn Profile][linkedInImage]][linkedInProfile]
 
 [linkedInImage]: https://skillicons.dev/icons?i=linkedin
-[linkedInProfile]: https://www.linkedin.com/in/daviti-didbaridze-bb5a58b5/ "Personal Profile"
+[linkedInProfile]: https://www.linkedin.com/in/daviti-didbaridze/ "Personal Profile"
 [linkToResume]: https://drive.google.com/file/d/1ZuZEzaYnd6kIFyUrArFuU01VpuDnzq_w/view?usp=share_link "To My Resume"
 [personalPage]: https://davit-didbaridze.netlify.app/ "To My Personal Page"
