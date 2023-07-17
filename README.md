@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at my [Personal Page][personalPage]
 
-- 📫 How to reach me **[ddidbaridze@gmail.com](mailto:contact@davitididbaridze.de)**
+- 📫 How to reach me **[contact me](mailto:contact@davitididbaridze.de)**
 
 - 📄 Know about my experiences [See Resume][linkToResume]
 
