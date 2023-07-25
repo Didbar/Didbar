@@ -28,5 +28,5 @@
 
 [linkedInImage]: https://skillicons.dev/icons?i=linkedin
 [linkedInProfile]: https://www.linkedin.com/in/daviti-didbaridze/ "Personal Profile"
-[linkToResume]: https://drive.google.com/file/d/1-TldQFAPNPXzWEFVZvYb8HAu2I35RNNS/view?usp=drive_link "To My Resume"
+[linkToResume]: https://drive.google.com/file/d/1vAsbmLEPcrcPQODXVCz6-HrsoERJ7O3S/view?usp=drive_link "To My Resume"
 [personalPage]: https://www.davitididbaridze.de/ "To My Personal Page"
