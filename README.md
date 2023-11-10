@@ -12,11 +12,11 @@
 
 #### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,figma,netlify,md,github,git&theme=light)
+![My Skills](https://skillicons.dev/icons?i=vscode,linux,bash,figma,netlify,md,vercel,github,devto,git,postman&theme=light)
 
 #### Skill Set
 
-![My Skills](https://skillicons.dev/icons?i=css,sass,html,js,ts,react,vue,nextjs,nodejs&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,react,redux,nextjs,vue,nodejs&theme=light)
 
 ### Github Statistics
 
