@@ -18,9 +18,9 @@
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,ts,react,redux,nextjs,vue,nodejs&theme=light)
 
-### Github Statistics
+<!-- ### Github Statistics
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Didbar&layout=compact)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Didbar&layout=compact) -->
 
 ### Connect with me
 
